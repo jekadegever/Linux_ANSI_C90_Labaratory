@@ -1,0 +1,7 @@
+please insert your magic square numbers !
+Magic square size : 3 X 3
+Insert 9 numbers between 1 to 9
+
+Error: invalid character inserted, please insert numbers only (integers)
+Error: not enough numbers inserted
+Program stopped
