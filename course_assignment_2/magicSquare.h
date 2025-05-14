@@ -1,5 +1,5 @@
 
-#define SIZE 3/*the size of the magic square the magic square will be size X size*/
+#define SIZE 3/*the size of the C_Labaratory_ANSI_C90 square the C_Labaratory_ANSI_C90 square will be size X size*/
 
 extern int magicSquare[SIZE][SIZE];/*extern matrix declarated in other file*/
 
