@@ -127,7 +127,7 @@ Then follow the on-screen instructions to enter your matrix values.
 
 - The program uses `#define SIZE 3` in `magicSquare.h` to set the matrix dimensions.
 - You can change the matrix size by modifying the `SIZE` macro and recompiling.
-- Make sure to provide **exactly SIZE×SIZE** valid integers in the input.
+
 
 
 ## 📜 License
