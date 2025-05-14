@@ -48,7 +48,7 @@ int isValidInt(const char *str) {
 
 
 /*method getMagicSquareNumbers getting the input from user until get EOF, checking the input, if the input contains any non-white character, more or less numbers than required
-in the C_Labaratory_ANSI_C90 square - (known by defined SIZE macro), if a non integer number inserted the program will return 0(false) -(bad input), otherwise it will return 1 - (input is ok)
+in the magic square - (known by defined SIZE macro), if a non integer number inserted the program will return 0(false) -(bad input), otherwise it will return 1 - (input is ok)
 @input: void
 @returns: int (1 or 0)
  */
